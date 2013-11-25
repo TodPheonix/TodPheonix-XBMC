@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.todpheonix" name="TodPheonix's XBMC Add-on Repository" version="1.0" provider-name="todpheonix">
+	<extension point="xbmc.addon.repository" name="TodPheonix's XBMC Addon Repository">
+		<info compressed="false">http://github.com/TodPheonix/todpheonix-xbmc/raw/master/addons.xml</info>
+		<checksum>http://github.com/TodPheonix/todpheonix-xbmc/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/TodPheonix/todpheonix-xbmc/raw/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>TodPheonix's XBMC Add-on Repository</summary>
+		<description>TodPheonix's XBMC Add-on Repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
